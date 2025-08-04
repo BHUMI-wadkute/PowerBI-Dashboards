@@ -33,3 +33,10 @@ These dashboards are a part of my **class studies and self-practice** in learnin
 
 This repository serves as a **learning record** while I practice **Power BI** for data visualization and analytics as part of my studies.
 
+
+🙋‍♀ Author
+
+Bhumi Pravin Wadkute 💼 LinkedIn (https://www.linkedin.com/in/bhumi-wadkute-b3a974369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+🐱 GitHub: BHUMI-wadkute
+
